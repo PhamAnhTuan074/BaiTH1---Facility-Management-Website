@@ -1,0 +1,2 @@
+Nếu không chạy được bang lệnh npm run dev
+thì chạy bang lệnh npm.cmd run dev
